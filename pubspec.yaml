@@ -1,0 +1,3 @@
+name: gpio_commons
+version: 0.1.0-dev
+description: Some shared classes for packages firmata, graystone, ...
