@@ -1,3 +1,7 @@
 name: gpio_commons
 version: 0.1.0
 description: Some shared classes for packages firmata, graystone, ...
+author: Nicolas Francois  <nicolas.franc@gmail.com>
+homepage: https://github.com/nfrancois/gpio_commons
+environnment:
+  sdk: '>=1.8.0 <2.0.0'
